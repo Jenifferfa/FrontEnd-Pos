@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #ffcbdb;
+  border-radius: 10px;
+  min-height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.links {
+  height: 150px;
+  display: inline;
+  margin-inline-end: 50px
+}
+
+.Post-title {
+  background-color: #d4c6d0;
+	border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 2vmin);
+  font-style: italic;
+}
+
+.Post-description {
+  background-color: #c1bcbc;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  font-style: italic;
+}
+
+.Imagem {
+  border-radius: 30px;
+}
+
+.App-header-descrition {
+  font-size: calc(5px + 2vmin);
+}
+
+.App-header-name {
+  font-style: italic;
+  font-family: 'Lucida Sans';
+}
